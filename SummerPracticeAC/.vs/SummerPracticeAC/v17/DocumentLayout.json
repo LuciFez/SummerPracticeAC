@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Workspace\\Summer Practice\\SummerPracticeAC\\SummerPracticeAC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{398C8671-DDFC-41D2-8960-C900E8A508B0}|Infrastructure\\Infrastructure.csproj|c:\\workspace\\summer practice\\summerpracticeac\\summerpracticeac\\infrastructure\\repositories\\authenticationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{398C8671-DDFC-41D2-8960-C900E8A508B0}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\authenticationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E97495-F135-4362-8B58-4A15E30ED31D}|WebApi\\WebApi.csproj|c:\\workspace\\summer practice\\summerpracticeac\\summerpracticeac\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E97495-F135-4362-8B58-4A15E30ED31D}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{398C8671-DDFC-41D2-8960-C900E8A508B0}|Infrastructure\\Infrastructure.csproj|c:\\workspace\\summer practice\\summerpracticeac\\summerpracticeac\\infrastructure\\handlers\\genericerrorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{398C8671-DDFC-41D2-8960-C900E8A508B0}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\handlers\\genericerrorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E97495-F135-4362-8B58-4A15E30ED31D}|WebApi\\WebApi.csproj|c:\\workspace\\summer practice\\summerpracticeac\\summerpracticeac\\webapi\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E97495-F135-4362-8B58-4A15E30ED31D}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{398C8671-DDFC-41D2-8960-C900E8A508B0}|Infrastructure\\Infrastructure.csproj|c:\\workspace\\summer practice\\summerpracticeac\\summerpracticeac\\infrastructure\\handlers\\identityhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{398C8671-DDFC-41D2-8960-C900E8A508B0}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\handlers\\identityhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{398C8671-DDFC-41D2-8960-C900E8A508B0}|Infrastructure\\Infrastructure.csproj|c:\\workspace\\summer practice\\summerpracticeac\\summerpracticeac\\infrastructure\\handlers\\passwordhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{398C8671-DDFC-41D2-8960-C900E8A508B0}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\handlers\\passwordhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D57A06BB-BA85-4D51-9E74-8298BD4082B2}|Application\\Application.csproj|c:\\workspace\\summer practice\\summerpracticeac\\summerpracticeac\\application\\services\\authorizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D57A06BB-BA85-4D51-9E74-8298BD4082B2}|Application\\Application.csproj|solutionrelative:application\\services\\authorizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D57A06BB-BA85-4D51-9E74-8298BD4082B2}|Application\\Application.csproj|c:\\workspace\\summer practice\\summerpracticeac\\summerpracticeac\\application\\interfaces\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D57A06BB-BA85-4D51-9E74-8298BD4082B2}|Application\\Application.csproj|solutionrelative:application\\interfaces\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1341,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthenticationRepository.cs",
+              "DocumentMoniker": "C:\\Workspace\\Summer Practice\\SummerPracticeAC\\SummerPracticeAC\\Infrastructure\\Repositories\\AuthenticationRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\AuthenticationRepository.cs",
+              "ToolTip": "C:\\Workspace\\Summer Practice\\SummerPracticeAC\\SummerPracticeAC\\Infrastructure\\Repositories\\AuthenticationRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\AuthenticationRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T17:46:22.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenericErrorHandler.cs",
+              "DocumentMoniker": "C:\\Workspace\\Summer Practice\\SummerPracticeAC\\SummerPracticeAC\\Infrastructure\\Handlers\\GenericErrorHandler.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Handlers\\GenericErrorHandler.cs",
+              "ToolTip": "C:\\Workspace\\Summer Practice\\SummerPracticeAC\\SummerPracticeAC\\Infrastructure\\Handlers\\GenericErrorHandler.cs",
+              "RelativeToolTip": "Infrastructure\\Handlers\\GenericErrorHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T15:57:30.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Workspace\\Summer Practice\\SummerPracticeAC\\SummerPracticeAC\\WebApi\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Workspace\\Summer Practice\\SummerPracticeAC\\SummerPracticeAC\\WebApi\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T15:12:53.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Workspace\\Summer Practice\\SummerPracticeAC\\SummerPracticeAC\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "C:\\Workspace\\Summer Practice\\SummerPracticeAC\\SummerPracticeAC\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T15:08:43.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IdentityHandler.cs",
+              "DocumentMoniker": "C:\\Workspace\\Summer Practice\\SummerPracticeAC\\SummerPracticeAC\\Infrastructure\\Handlers\\IdentityHandler.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Handlers\\IdentityHandler.cs",
+              "ToolTip": "C:\\Workspace\\Summer Practice\\SummerPracticeAC\\SummerPracticeAC\\Infrastructure\\Handlers\\IdentityHandler.cs",
+              "RelativeToolTip": "Infrastructure\\Handlers\\IdentityHandler.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T14:57:31.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPasswordHasher.cs",
+              "DocumentMoniker": "C:\\Workspace\\Summer Practice\\SummerPracticeAC\\SummerPracticeAC\\Application\\Interfaces\\IPasswordHasher.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IPasswordHasher.cs",
+              "ToolTip": "C:\\Workspace\\Summer Practice\\SummerPracticeAC\\SummerPracticeAC\\Application\\Interfaces\\IPasswordHasher.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IPasswordHasher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T14:54:40.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PasswordHandler.cs",
+              "DocumentMoniker": "C:\\Workspace\\Summer Practice\\SummerPracticeAC\\SummerPracticeAC\\Infrastructure\\Handlers\\PasswordHandler.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Handlers\\PasswordHandler.cs",
+              "ToolTip": "C:\\Workspace\\Summer Practice\\SummerPracticeAC\\SummerPracticeAC\\Infrastructure\\Handlers\\PasswordHandler.cs",
+              "RelativeToolTip": "Infrastructure\\Handlers\\PasswordHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T14:38:53.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthorizationService.cs",
+              "DocumentMoniker": "C:\\Workspace\\Summer Practice\\SummerPracticeAC\\SummerPracticeAC\\Application\\Services\\AuthorizationService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\AuthorizationService.cs",
+              "ToolTip": "C:\\Workspace\\Summer Practice\\SummerPracticeAC\\SummerPracticeAC\\Application\\Services\\AuthorizationService.cs",
+              "RelativeToolTip": "Application\\Services\\AuthorizationService.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAC4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T14:35:50.761Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1341,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

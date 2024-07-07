@@ -1,6 +1,6 @@
 Following script will retrieve the db connection string:
 
-declare @dbName nvarchar(500) = 'Test';
+declare @dbName nvarchar(500) = 'CentricSummerPractice';
 
 select
     'data source=' + @@servername +
@@ -11,7 +11,7 @@ select
         else
             ';user id=' + suser_name() + ';password=<<YourPassword>>'
     end
-	+';TrustServerCertificate=True";'
+	+';TrustServerCertificate=True;'
     as ConnectionString
 from sys.server_principals
 where name = suser_name()

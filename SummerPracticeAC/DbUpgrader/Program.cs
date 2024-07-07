@@ -10,7 +10,7 @@ namespace DbUpgrader
 
             var connectionString =
                 args.FirstOrDefault()
-                ?? "data source=NBKR004510\\SQLEXPRESS;initial catalog=CentricSummerPractice;trusted_connection=true;TrustServerCertificate=True";
+                ?? "ADD THE SAME STRING FROM -- appsettings.json 'Database' key -- HERE";
             EnsureDatabase.For.SqlDatabase(connectionString);
 
             var upgrader =
